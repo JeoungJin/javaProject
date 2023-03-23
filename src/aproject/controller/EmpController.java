@@ -10,7 +10,7 @@ import aproject.view.EmpView;
 import aproject.vo.EmpVO;
 
 
- 
+//수정하기  
 //Servlet으로 대치될예정 
 public class EmpController {
 
